@@ -1,1 +1,2 @@
-Sistema de gerência de uma escola usando Listas Estáticas(ARRAYS).
+Este trabalho foi propostado pelo professor da disciplina: Laboratório de Programação onde deve-se criar um sistema de gerência para uma ESCOLA, no entanto esse sistema também pode ser utilizado para outras instituições seja ela UNIVERSIDADES, etc... devendo simplesmente efetuar algumas adaptações.
+O algoritmo foi desenvolvido em linguagem C. Também recomendo que seja rodado no Sistema Operacional LINUX!!
